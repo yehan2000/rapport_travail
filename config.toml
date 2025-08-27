@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#2563EB"              # bleu boutons
+backgroundColor="#F5F7FB"           # fond général
+secondaryBackgroundColor="#FFFFFF"  # cartes / panneaux
+textColor="#0F172A"                 # texte
+font="sans serif"

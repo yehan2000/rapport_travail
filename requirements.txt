@@ -1,3 +1,5 @@
 streamlit
 pandas
 sqlalchemy>=2.0
+matplotlib
+reportlab
